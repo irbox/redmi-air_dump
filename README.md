@@ -1,0 +1,20 @@
+## missi-user 15 AP3A.240905.015.A2 OS2.0.205.0.VGQMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6835
+- Codename: air
+- Brand: Redmi
+- Flavor: missi-user
+- Release Version: 15
+- Kernel Version: 5.15.180
+- Id: AP3A.240905.015.A2
+- Incremental: OS2.0.205.0.VGQMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: Redmi/air/air:13/TP1A.220624.014/OS2.0.205.0.VGQMIXM:user/release-keys
+- OTA version: 
+- Branch: missi-user-15-AP3A.240905.015.A2-OS2.0.205.0.VGQMIXM-release-keys
+- Repo: redmi_air_dump
